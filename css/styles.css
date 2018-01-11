@@ -1,3 +1,9 @@
 #over18, #under18 {
   display: none;
+  color: red;
+  text-align: center;
+}
+.over18{
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/41ncI0ItYyL.jpg");
+
 }

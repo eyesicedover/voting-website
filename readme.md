@@ -1,37 +1,36 @@
-# _{Application Name}_
+# _{Voting Website}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{A site for giving information for voting based on age}, {1/11/18}_
 
-#### By _**{List of contributors}**_
+#### By _**{Chase and Stephanie}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This is a website that gives information about voting. It shows voting info to people who are over 18. It shows information about the voting process to people under 18. If someone enters a negative age it will give an alert to enter a valid age.}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone the github repository_
+* _Run the index.html_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{There are no known bugs. Please report any bugs you encounter.}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If there are any issues, questions, or concerns please email me: eyesicedover@gmail.com}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{*HTML
+  *CSS
+  *Jquery
+  *Bootstrap}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Licensed under the MIT license}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Chase and Stephanie}_**

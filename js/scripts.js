@@ -5,6 +5,7 @@ $(document).ready(function(){
     if (voterAge >= 18) {
       $("#under18").hide();
       $("#over18").show();
+      $("body").addClass("over18");
     } else if (voterAge > 0){
       $("#over18").hide();
       $("#under18").show();
